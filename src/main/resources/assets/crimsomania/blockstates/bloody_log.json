@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "axis=y,has_sap=false": {
+     "model": "crimsomania:block/bloody_log"
+    },
+    "axis=z,has_sap=false": {
+      "model": "crimsomania:block/bloody_log_horizontal",
+      "x": 90
+    },
+    "axis=x,has_sap=false": {
+      "model": "crimsomania:block/bloody_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,has_sap=true": {
+      "model": "crimsomania:block/bloody_log_sap"
+    },
+    "axis=z,has_sap=true": {
+      "model": "crimsomania:block/bloody_log_sap_horizontal",
+      "x": 90
+    },
+    "axis=x,has_sap=true": {
+      "model": "crimsomania:block/bloody_log_sap_horizontal",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

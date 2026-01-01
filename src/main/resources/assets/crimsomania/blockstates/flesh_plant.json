@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=up": {
+      "model": "crimsomania:block/flesh_plant"
+    },
+    "facing=down": {
+      "model": "crimsomania:block/flesh_plant",
+      "x": 180
+    },
+    "facing=north": {
+      "model": "crimsomania:block/flesh_plant",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "crimsomania:block/flesh_plant",
+      "x": 90,
+      "y": 180
+    },
+    "facing=west": {
+      "model": "crimsomania:block/flesh_plant",
+      "x": 90,
+      "y": 270
+    },
+    "facing=east": {
+      "model": "crimsomania:block/flesh_plant",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

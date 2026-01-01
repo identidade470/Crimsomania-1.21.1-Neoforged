@@ -1,0 +1,35 @@
+{
+  "item.crimsomania.raw_flesh_plant": "Raw Bloody Snatcher Meat",
+  "item.crimsomania.bloody_sap_bottle": "Bloody Sap Bottle",
+  "block.crimsomania.bloody_log": "Bloody Log",
+  "block.crimsomania.bloody_wood": "Bloody Wood",
+  "block.crimsomania.stripped_bloody_log": "Stripped Bloody Log",
+  "block.crimsomania.stripped_bloody_wood": "Stripped Bloody Wood",
+  "block.crimsomania.flesh_plant": "Flesh Plant",
+  "block.crimsomania.bloody_mouth": "Flesh Mouth",
+  "block.crimsomania.bloody_block": "Flesh Block",
+
+  "block.crimsomania.bloody_planks": "Bloody Planks",
+  "block.crimsomania.bloody_stairs": "Bloody Stairs",
+  "block.crimsomania.bloody_slab": "Bloody Slab",
+  "block.crimsomania.bloody_fence": "Bloody Fence",
+  "block.crimsomania.bloody_fence_gate": "Bloody Fence Gate",
+  "block.crimsomania.bloody_door": "Bloody Door",
+  "block.crimsomania.bloody_trapdoor": "Bloody Trapdoor",
+  "block.crimsomania.bloody_button": "Bloody Button",
+  "block.crimsomania.bloody_pressure_plate": "Bloody Pressure Plate",
+
+  "creativetab.crimsomania.base": "Crimsomania",
+
+  "itemGroup.examplemod": "Example Mod Tab",
+  "block.examplemod.example_block": "Example Block",
+  "item.examplemod.example_item": "Example Item",
+
+  "examplemod.configuration.title": "Example Mod Configs",
+  "examplemod.configuration.section.examplemod.common.toml": "Example Mod Configs",
+  "examplemod.configuration.section.examplemod.common.toml.title": "Example Mod Configs",
+  "examplemod.configuration.items": "Item List",
+  "examplemod.configuration.logDirtBlock": "Log Dirt Block",
+  "examplemod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "examplemod.configuration.magicNumber": "Magic Number"
+}

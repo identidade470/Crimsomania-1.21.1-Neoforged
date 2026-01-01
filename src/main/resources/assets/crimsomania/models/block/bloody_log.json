@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "crimsomania:block/bloody_log_top",
+    "side": "crimsomania:block/bloody_log"
+  }
+}

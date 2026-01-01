@@ -19,6 +19,7 @@ group = mod_group_id
 
 repositories {
     // Add here additional repositories if required by some of the dependencies below.
+    maven { url = "https://www.cursemaven.com" }
 }
 
 base {
@@ -112,6 +113,10 @@ configurations {
 }
 
 dependencies {
+    //implementation "curse.maven:kaleidoscope-cookery-1309203:7307805"
+    //implementation "curse.maven:kubejs-238086:7278501"
+    //implementation "curse.maven:rhino-416294:7104526"
+
     // Example optional mod dependency with JEI
     // The JEI API is declared for compile time use, while the full JEI artifact is used at runtime
     // compileOnly "mezz.jei:jei-${mc_version}-common-api:${jei_version}"
